@@ -21,7 +21,7 @@ export const data = [
       catchPhrase: 'Multi-layered client-server neural-net',
       bs: 'harness real-time e-markets',
     },
-    hasJob: false,
+    hasJob: true,
     avatar: 'https://cdn-icons-png.flaticon.com/512/2922/2922506.png',
   },
   {
